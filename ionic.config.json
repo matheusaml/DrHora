@@ -1,0 +1,8 @@
+{
+  "name": "DrHora",
+  "app_id": "57e7f117",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
